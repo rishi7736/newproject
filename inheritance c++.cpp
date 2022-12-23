@@ -26,7 +26,7 @@ class Teacher:public Common
 		void input1()
 		{
 			input();
-			cout<<"			Mention the subject : ";
+			cout<<"			Mention the your subject : ";
 			cin>>subject;
 			cout<<"			Enter the publication : ";
 			cin>>publication;
